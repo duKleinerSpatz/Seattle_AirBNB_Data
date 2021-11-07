@@ -39,6 +39,8 @@ map.html:
 ## Summary:
 The Seattle Airbnb Data from Kaggle (2016) was used to find characteristics of pricing of the listed objects. 
 A machine learning approach was used to predict prices of objects with the given characteristics.
+A blog post summarizing the analysis can be viewed on my homepage:
+http://kalinka.synology.me
 
 ## References:
 All data was downloaded from Kaggle (as linked in the Udacity Nanodegree Course):
